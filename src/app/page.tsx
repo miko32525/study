@@ -6,6 +6,9 @@ export default function Home() {
       <div className="mx-auto max-w-2xl">
         カフェラテ
       </div>
+      <div className="mx-auto max-w-2xl">
+        コーヒー
+      </div>
     </main>
   );
 }
