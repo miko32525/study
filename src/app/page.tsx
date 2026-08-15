@@ -9,6 +9,9 @@ export default function Home() {
       <div className="mx-auto max-w-2xl">
         コーヒー
       </div>
+      <div className="mx-auto max-w-2xl">
+        紅茶
+      </div>
     </main>
   );
 }
