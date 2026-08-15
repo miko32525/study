@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-sky-50 px-6 py-12 font-sans text-slate-800">
       <div className="mx-auto max-w-2xl">
-        テスト
+        カフェラテ
       </div>
     </main>
   );
