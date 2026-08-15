@@ -10,7 +10,7 @@ export default function Home() {
         コーヒー
       </div>
       <div className="mx-auto max-w-2xl">
-        紅茶
+        ティー
       </div>
     </main>
   );
